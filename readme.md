@@ -1,1 +1,1 @@
-solutions archive
+Solutions archive.
