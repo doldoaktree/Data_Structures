@@ -1,5 +1,3 @@
 Solutions archive.
 
-##Subheader
-
-Happy As a Pig In Mud
+"Happy As a Pig In Mud."
